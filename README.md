@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=CCCCCC&center=true&vCenter=true&width=520&height=35&lines=TRACK+%26+FIELD;CALISTHENICS;LEARNING+TO+CODE" alt="Animated text: track and field, calisthenics, learning to code" />
 
-  <p><b>Keep showing up. Keep getting better.</b></p>
+  <p><b>It's not about if I can do It. I'm doing it because I want to.</b></p>
   <p>Track & field&nbsp; · &nbsp;Calisthenics&nbsp; · &nbsp;Beginner coder</p>
 </div>
 
@@ -15,7 +15,7 @@ I’ve been competing since 5th grade. My events are the **100m dash, shot put, 
 
 ### Calisthenics
 
-One milestone I’m proud of: **100 push-ups and 20 pull-ups in one sitting (100/20).**
+Current Calisthenics Goal: **100 push-ups and 20 pull-ups in one sitting (100/20).**
 
 I’m working through a skill map that includes handstand push-ups, the elbow lever, front lever, planche progressions, the 90° hold, and combo skills. I enjoy breaking big skills into small steps and getting a little stronger along the way.
 
