@@ -17,7 +17,7 @@ I’ve been competing since 5th grade. My events are the **100m dash, shot put, 
 
 Current Calisthenics Goal: **100 push-ups and 20 pull-ups in one sitting (100/20).**
 
-I’m working through a skill map that includes handstand push-ups, the elbow lever, front lever, planche progressions, the 90° hold, and combo skills. I enjoy breaking big skills into small steps and getting a little stronger along the way.
+I’m working through a skill map that includes handstand push-ups, the elbow lever, front lever, planche progressions, the 90° hold, and combo skills.
 
 ### Learning to code
 
